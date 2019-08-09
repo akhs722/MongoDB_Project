@@ -19,3 +19,5 @@ put 123456 as the otp and hit Verify. You will be good to go.
 <img src="images/activity.png" width="680"/>
 
 Download the project and help modify.
+
+Thank you!
